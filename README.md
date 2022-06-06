@@ -25,7 +25,7 @@
   <a href="https://wa.me/5532984276492" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
   
-  
+![Snake animation](https://github.com/mathroberto/mathroberto/blob/output/github-contribution-grid-snake.svg)
  
   
 </div>
