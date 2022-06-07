@@ -30,9 +30,8 @@
   
 </div>
   
-This readme.md was inspired by <a href ='https://www.youtube.com/watch?v=TsaLQAetPLU'> this</a> video.
-  
-  
+<h6>This readme.md was inspired by <a href ='https://www.youtube.com/watch?v=TsaLQAetPLU'> this</a> video.</h6>
+
 <!---
 MathRoberto/MathRoberto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
