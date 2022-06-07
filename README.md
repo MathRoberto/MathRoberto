@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a-/AOh14GiKYuKE0d696CzilYnEs3qdkgRnlrnE2z76nyxOvV4=s288-p-no">
+  <img align="right" alt="picture" height="182" style="border-radius:50px;" src="https://media.discordapp.net/attachments/643005033679421457/983606596678602782/188948_ShA7cawF.png">
  
 </div>
 
