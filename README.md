@@ -10,7 +10,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="picture" height="182" style="border-radius:50px;" src="https://media.discordapp.net/attachments/643005033679421457/983606596678602782/188948_ShA7cawF.png">
+  <img align="center" alt="Java" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Oracle" height="40" style="border-radius:50px;" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="right" alt="Eu" height="182" style="border-radius:50px;" src="https://media.discordapp.net/attachments/643005033679421457/983606596678602782/188948_ShA7cawF.png">
+  
  
 </div>
 
