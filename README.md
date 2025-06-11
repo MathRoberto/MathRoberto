@@ -25,7 +25,6 @@
   <a href="https://www.twitch.tv/maromushii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:mbarcellosferraz@hotmail.com"><img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' target="_blank"></a>
   <a href="https://www.linkedin.com/in/mathrobertobf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5532984276492" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
   
 ![Snake animation](https://github.com/mathroberto/mathroberto/blob/output/github-contribution-grid-snake.svg)
